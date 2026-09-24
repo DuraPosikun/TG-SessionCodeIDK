@@ -1,0 +1,5 @@
+opentele2==1.2.1
+py7zr>=0.20
+rarfile>=4.2
+python-dotenv>=1.0
+python-socks[asyncio]>=2.0
